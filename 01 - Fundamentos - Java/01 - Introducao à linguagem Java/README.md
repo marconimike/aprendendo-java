@@ -174,4 +174,4 @@ Execução fácil do programa
 
 Detecção de erros
 
-## 🛠️ Instalação da JDK 
+
