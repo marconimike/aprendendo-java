@@ -13,6 +13,7 @@ public class imprimirPalavraDezVezes {
             System.out.println(palavra);
 
         }
+    
     }
     
 }
