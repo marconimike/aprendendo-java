@@ -21,11 +21,15 @@ aprendendo-java/
 │   │   ├── ☕ imparPar.java
 │   │   ├── ☕ maiorNumero.java
 │   │   └── ☕ mediaAluno.java
-│   ├── 📁 04 - Estrutura repetitivas
-│   └── 📁 05 - Bônus
-├── 📁 02 - Introdução à programação orientada a objetos
-│   ├── 📁 01 - Classes_Atributos_Metodos
-│   └── 📁 02 - Contrutores_Sobrecarga_Encapsulamento
+│   └── 📁 04 - Estrutura repetição
+│       ├── 📝 README.md
+│       └── ☕ imprimirPalavraDezVezes.java
+├── 📁 02 - Introducao POO
+│   ├── 📁 logicaEstoque
+│   │   ├── 📁 entities
+│   │   │   └── ☕ Produto.java
+│   │   └── ☕ programa.java
+│   └── 📝 README.md
 ├── 📄 LICENSE
 └── 📝 README.md
 ```

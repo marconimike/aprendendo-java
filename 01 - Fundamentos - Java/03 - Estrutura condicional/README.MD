@@ -1,11 +1,11 @@
-Estrutura Condicional 🔀
+## Estrutura Condicional 🔀
 
 A estrutura condicional permite que o programa tome decisões com base em determinadas condições.
 
 Até agora, nossos programas executavam tudo de forma linear (estrutura sequencial).
 Agora, vamos permitir que o programa escolha qual caminho seguir.
 
-##🧠 O que é uma estrutura condicional?
+## 🧠 O que é uma estrutura condicional?
 
 É uma estrutura que executa um bloco de código somente se uma condição for verdadeira.
 
@@ -39,7 +39,7 @@ public class ExemploIf {
 }
 
 
-##📌 Se a condição for falsa, o bloco simplesmente não é executado.
+## 📌 Se a condição for falsa, o bloco simplesmente não é executado.
 
 🔹 Estrutura if-else
 
@@ -94,7 +94,7 @@ public class ClassificacaoNota {
 }
 
 
-##📌 O programa executa apenas o primeiro bloco cuja condição seja verdadeira.
+## 📌 O programa executa apenas o primeiro bloco cuja condição seja verdadeira.
 
 🔹 Operadores Relacionais
 
@@ -175,7 +175,7 @@ public class ExemploSwitch {
 
 📌 O break evita que os outros casos sejam executados.
 
-##🧠 Exemplo completo com entrada de dados
+## 🧠 Exemplo completo com entrada de dados
 import java.util.Scanner;
 
 public class VerificaNumero {

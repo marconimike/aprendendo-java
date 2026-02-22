@@ -4,7 +4,7 @@ As estruturas repetitivas (ou laços de repetição) permitem executar um bloco 
 
 Elas evitam repetição manual de código e tornam o programa muito mais eficiente.
 
-##🧠 Por que usar repetição?
+## 🧠 Por que usar repetição?
 
 Imagine que você precise imprimir números de 1 a 100.
 
@@ -37,7 +37,7 @@ public class ExemploWhile {
 }
 
 
-##📌 O incremento (contador++) é essencial para evitar loop infinito.
+## 📌 O incremento (contador++) é essencial para evitar loop infinito.
 
 🔹 Estrutura do-while
 
@@ -65,7 +65,7 @@ public class ExemploDoWhile {
 }
 
 
-##📌 A diferença é que a condição é verificada depois da execução.
+## 📌 A diferença é que a condição é verificada depois da execução.
 
 🔹 Estrutura for
 
@@ -133,7 +133,7 @@ while (true) {
 }
 
 
-##📌 Sempre garanta que exista uma condição de parada.
+## 📌 Sempre garanta que exista uma condição de parada.
 
 🔹 Comandos break e continue
 break
